@@ -1,1 +1,2 @@
 Hello Git
+Introduction to git class
